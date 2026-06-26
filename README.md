@@ -230,27 +230,28 @@ High-performance expression parsing, verification, evaluation, and structural al
 
 <div align="center">
 
-<a href="mailto:khadijaaamerrr@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-khadijaaamerrr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/khadija-amer-7821a8334">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://khadija-amer-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-8b5cf6?style=for-the-badge&labelColor=4c1d95" />
 </a>
 &nbsp;
-<a href="https://khadija-amer-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://www.linkedin.com/in/khadija-amer-7821a8334">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" />
+</a>
+&nbsp;
+<a href="https://github.com/kamer-stack">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+&nbsp;
+<a href="mailto:khadijaaamerrr@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c0392b" />
 </a>
 
-</div>
-
-<br/>
 
 </div>
 
----
+
+
+</div>
 
 <div align="center">
 
