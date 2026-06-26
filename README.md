@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I'm Khadija — a Computer Science student at PUCIT, University of the Punjab (Class of 2028). I build projects across systems programming, game development, networking tools, and web development.
+I'm Khadija — a Computer Science student at PUCIT, University of the Punjab (Class of 2028). I build projects across systems programming, game development, networking and security tools, and web development.
 
 Outside of code I'm a Teaching Assistant under Dr. Madiha Khalid, a national campus ambassador, and a cricket coordinator at PUCIT Sports Society.
 
@@ -22,7 +22,7 @@ Outside of code I'm a Teaching Assistant under Dr. Madiha Khalid, a national cam
 ## 🚀 Featured Projects
 
 ### 🎮 Minesweeper Game
-Grid-based console game with dynamic difficulty scaling, a custom flagging system, high-score file tracking, and a recursive auto-reveal algorithm. Built in C++ with Ayesha Arif.
+Grid-based console game with dynamic difficulty scaling, a custom flagging system, high-score file tracking, and a recursive auto-reveal algorithm.
 
 [![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/kamer-stack/Minesweeper-game-)
 
@@ -90,11 +90,13 @@ High-performance expression parsing, verification, evaluation, and structural al
 ## 🏆 Achievements
 
 - 🏅 Honhaar Scholarship — Fully Funded Academic Merit Award
+- 💻 CM laptop Awardee —   Merit based Award
 - 🥈 Board Merit Shield — 2nd position school-wide
+- 💻 Teaching Assistant — Dr. Madiha Khalid
 - 🏏 Cricket Coordinator — PUCIT Sports Society
 - 🌟 National Campus Ambassador — LoopLab & FDC
 - 🥇 Mini Olympics Event Coordinator — FCIT
-- 💻 Teaching Assistant — Dr. Madiha Khalid
+
 
 ---
 
