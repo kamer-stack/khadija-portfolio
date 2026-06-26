@@ -74,6 +74,7 @@ I've put together a full portfolio site showcasing deeper write-ups of my securi
 Grid-based console game with dynamic difficulty scaling, custom flagging system, high-score file tracking, and recursive auto-reveal algorithm.
 
 [![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamer-stack/Minesweeper-game-)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 </td>
@@ -83,6 +84,7 @@ Grid-based console game with dynamic difficulty scaling, custom flagging system,
 Desktop recreation of the iconic browser endless runner. Optimized collision detection engine and geometric bounding shapes for smooth gameplay.
 
 [![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamer-stack/CHROME-DINO-GAME)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 </td>
@@ -94,6 +96,7 @@ Desktop recreation of the iconic browser endless runner. Optimized collision det
 Browser-based packet sniffing dashboard. Real-time packet capture, protocol analysis, and live port-to-service mapping for 20+ ports. Smart fallback simulation mode included.
 
 [![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamer-stack/network-traffic-monitor)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 ![Scapy](https://img.shields.io/badge/Scapy-3776AB?style=flat-square)
@@ -106,6 +109,7 @@ Advanced server log parser handling 38+ operational edge cases. Tracks status co
 
 [![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamer-stack/log-analyzer)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8b5cf6?style=for-the-badge)](https://kamer-stack.github.io/log-analyzer/web_ui.html)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
@@ -118,6 +122,7 @@ VS Code-inspired dark browser GUI editor. Dynamic text storage via vector string
 
 [![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamer-stack/KadEdit)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8b5cf6?style=for-the-badge)](https://kamer-stack.github.io/KadEdit/)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
@@ -129,6 +134,7 @@ High-performance expression parsing, verification, evaluation, and structural al
 
 [![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamer-stack/infix-engine)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-8b5cf6?style=for-the-badge)](https://kamer-stack.github.io/infix-engine/)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 </td>
