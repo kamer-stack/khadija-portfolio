@@ -1,10 +1,17 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Khadija%20Amer&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Computer%20Science%20Student%20%7C%20Builder%20%7C%20PUCIT%20Class%20of%202028&descAlignY=68&descColor=e9d5ff&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Khadija%20Amer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20PUCIT%20Class%20of%202028&descAlignY=58&descColor=e9d5ff&descSize=18" width="100%"/>
 
 <br/>
 
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there!+I+am+Khadija+%F0%9F%91%8B;BSCS+Student+%40+PUCIT;Systems+%7C+Games+%7C+Networking+%7C+Security+%7C+Web;Building+cool+things+with+code!" alt="Typing SVG" />
+
+</div>
+
+---
 <a href="https://khadija-amer-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-8b5cf6?style=for-the-badge&labelColor=4c1d95" />
 </a>
@@ -29,11 +36,7 @@
 
 </div>
 
----
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Khadija+👋;BSCS+Student+%40+PUCIT;Systems+%7C+Games+%7C+Networking+%7C+Web;Building+cool+things+with+code!" alt="Typing SVG" />
-
----
 
 ## 👩‍💻 About Me
 
@@ -44,6 +47,20 @@ I'm **Khadija Amer** — a Computer Science student at PUCIT, University of the 
 - 🌟 **National Campus Ambassador** — LoopLab & FDC
 - 🏏 **Cricket Coordinator** — PUCIT Sports Society
 - 🥈 **Board Merit Shield** — 2nd position school-wide
+
+---
+
+## 💼 Portfolio
+
+<div align="center">
+
+I've put together a full portfolio site showcasing deeper write-ups of my security and dev work — incident response notes, log triage breakdowns, and project deep-dives that don't fit in a README.
+
+<a href="https://khadija-amer-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-8b5cf6?style=for-the-badge&labelColor=4c1d95" />
+</a>
+
+</div>
 
 ---
 
@@ -187,17 +204,17 @@ High-performance expression parsing, verification, evaluation, and structural al
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kamer-stack&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=e5e7eb&rank_icon=github" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=kamer-stack&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=e5e7eb&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamer-stack&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e5e7eb&langs_count=8" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamer-stack&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e5e7eb&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamer-stack&theme=midnight-purple&hide_border=true&background=0d1117&stroke=8b5cf6&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=a78bfa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamer-stack&theme=midnight-purple&hide_border=true&background=0d1117&stroke=8b5cf6&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=a78bfa&card_width=660" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamer-stack&theme=react-dark&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c084fc&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamer-stack&theme=react-dark&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c084fc&area=true&hide_border=true&height=300" width="100%"/>
 
 </div>
 
@@ -225,4 +242,13 @@ High-performance expression parsing, verification, evaluation, and structural al
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=80&section=footer" />
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&animation=fadeIn" />
+
+
+</div>
