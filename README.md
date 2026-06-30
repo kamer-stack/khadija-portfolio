@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:8b5cf6&height=200&section=header&text=Khadija%20Amer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20PUCIT%20Class%20of%202028&descAlignY=58&descColor=e9d5ff&descSize=18" width="100%"/>
 
 <br/>
-
+ 
 
 <div align="center">
 
